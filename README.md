@@ -19,6 +19,7 @@ import numpy as np
 A=np.array([[6,2,3],[3,1,1,],[10,3,4]])
 B=np.linalg.inv(A)
 print(B)
+```
 ## Output:
 ![MODEL](/inverse_ouput.png)
 ## Result:
